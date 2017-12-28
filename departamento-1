@@ -15,7 +15,7 @@
 <!-- font awesome -->
 <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
 <!-- bootstrap -->
-<link href="combine/939cabb93b28d994cbba71b1041c4cf8-1483704592" rel="stylesheet">
+<link href="combine/style.css" rel="stylesheet">
 <!-- favicon -->
 <link rel="shortcut icon" href="themes/jtherczeg-holidaycrown/assets/images/favicon.png" type="image/x-icon">
 <link rel="icon" href="themes/jtherczeg-holidaycrown/assets/images/favicon.png" type="image/x-icon">
