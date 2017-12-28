@@ -1,6 +1,6 @@
 /* ========================================================================
  * October CMS: front-end JavaScript extras
- * http://octobercms.com
+ * https://octobercms.com
  * ========================================================================
  * Copyright 2014 Alexey Bobkov, Samuel Georges
  *

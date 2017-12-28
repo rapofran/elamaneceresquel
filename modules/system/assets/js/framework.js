@@ -1,6 +1,6 @@
 /* ========================================================================
  * October CMS: front-end JavaScript framework
- * http://octobercms.com
+ * https://octobercms.com
  * ========================================================================
  * Copyright 2014 Alexey Bobkov, Samuel Georges
  *
